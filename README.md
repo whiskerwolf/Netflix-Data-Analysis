@@ -97,18 +97,25 @@ Netflix primarily targets teenagers and adults, as TV-MA and TV-14 are the most 
 
 ### Insight 5
 
-International Movies is the most common genre on Netflix, followed by Dramas and Comedies. This suggests that Netflix emphasizes diverse global content to appeal to audiences across different countries and cultures.
+International Movies is the most represented genre on Netflix, followed by Dramas and Comedies, highlighting Netflix's focus on globally diverse content that appeals to audiences across multiple countries and cultures.
+
 ---
 
 ## Future Improvements
 
-- Genre Analysis
-- Rating Distribution
-- Duration Analysis
+• Interactive Dashboard using Streamlit
+• Genre Recommendation System
+• Sentiment Analysis on Descriptions
+• Machine Learning based Popularity Prediction
+• Tableau / Power BI Dashboard
 
 ---
 
 ## Author
 
 **Rithwik Nalla**
+
+Computer Science Student
+
+Aspiring Data Scientist
 
