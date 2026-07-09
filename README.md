@@ -28,7 +28,7 @@ This project performs Exploratory Data Analysis (EDA) on the Netflix Titles data
 ## Installation
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/whiskerwolf/Netflix-Data-Analysis.git>
 cd Netflix-Data-Analysis
 
 pip install -r requirements.txt
@@ -104,9 +104,13 @@ International Movies is the most represented genre on Netflix, followed by Drama
 ## Future Improvements
 
 • Interactive Dashboard using Streamlit
+
 • Genre Recommendation System
+
 • Sentiment Analysis on Descriptions
+
 • Machine Learning based Popularity Prediction
+
 • Tableau / Power BI Dashboard
 
 ---
